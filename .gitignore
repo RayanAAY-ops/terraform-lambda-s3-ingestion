@@ -39,3 +39,5 @@ terraform.rc
 .DS_Store
 
 *.zip
+# Ignore local configuration files
+*.env
